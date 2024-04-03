@@ -19,6 +19,24 @@
   </tr>
 </table>
 <table>
+  <tr>
+    <td>Name</td>
+    <td>Rohan</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Rohansaini1512</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/rohan-saini-9b3060257/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Indian Institute Of Information Technology Kota</td>
+  </tr>
+</table>
+<table>
       <tr>
         <td>Name</td>
         <td>Arnav Goel</td>
